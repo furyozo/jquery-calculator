@@ -1,0 +1,29 @@
+------------------ PO TESTU 1. ------------------
+
+1. při posloupnosti několika operátorů bez = se připisují hodnoty jako string       - FIXED
+2. při výsledku 0 a psaní na klávesnici se musí 0 vymazat a nahradit novou číslicí  - FIXED
+3. dá se tam zadávat víc desetinných čárek a nemělo by                              - FIXED
+4. při operaci s desetinnou čárkou se to buguje, nemělo by jít                      - FIXED
+5. maximum znaků                                                                    - seru
+6. -5 + 5 atd. (- na začátku nejde napsat)                                          - FIXED
+7. hodně nul po sobě než se začne psát hodnota                                      - FIXED
+8. při infinity jde dopisovat                                                       - FIXED
+
+-- BONUS OBJECTIVES --
+- restylizace podle googlu                                                          - FIXED
+- ovládání numerickou klávesnicí                                                    - neni num. klavesnice
+- zvýrazňování operace, co se zrovna děje
+
+------------------ /PO TESTU 1. ------------------
+
+------------------ PO TESTU 2. ------------------
+
+1. operatory se ve spojeni s instantnim dokoncenim operace buguji
+2. kdyz je prvni cislo zaporny, vychazi hovadiny
+
+
+
+
+
+
+------------------ /PO TESTU 2. ------------------

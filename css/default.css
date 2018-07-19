@@ -1,0 +1,55 @@
+/* default calculator css */
+
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center; /* DELETE THIS AFTER FINISHING */
+}
+
+
+.calculator_wrapper{
+  display: inline-block;
+  height: 28em;
+  background-color: #333;
+  border: 2px solid #333;
+}
+#calculator_display{
+  margin: auto;
+  margin-top: 2em;
+  height: 4em;
+  width: 20em;
+  background-color: white;
+  overflow: hidden;
+  border: 2px solid #333;
+}
+#left_display{
+  float: left;
+}
+#right_display{
+  height: 2em;
+  width: 8em;
+  float: right;
+  z-index: 1;
+}
+.calculator_keyboard{
+  margin: auto;
+  margin-top: 2em;
+  width: 20em;
+}
+.calculator_button{
+  margin: 0.275em;
+  height: 4em;
+  width: 4em;
+  border: 1px solid black;
+  font-weight: bold;
+  border-radius: 5%;
+}
+.calculator_number {
+  background-color: #c6d9eb;
+}
+.calculator_button:hover {
+  background-color: #cceeff;
+}
+.calculator_button:hover{
+  cursor: pointer;
+}
